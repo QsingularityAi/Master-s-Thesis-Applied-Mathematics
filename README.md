@@ -1,4 +1,4 @@
-# Master-s-Thesis-Applied-Mathematics
+# M.S-Applied-Mathematics
 
 
 # Master’s Thesis :- Cubic B-Spline Collocation Method for Parabolic Partial Differential Equations.
